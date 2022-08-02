@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nodejs , React Native**
 
-- 👨‍💻 All of my projects are available at [athershaikh.netlify.app](athershaikh.netlify.app)
+- 👨‍💻 All of my projects are available at [athershaikh.netlify.app](http://athershaikh.netlify.app)
 
 - 💬 Ask me about **Html5 ,css3 , Javascript ,Reactjs ,Frontend Tools**
 
