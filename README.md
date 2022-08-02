@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/man-programming-computer-coder-working-software-development-concept-vector-illustration_543062-483.jpg"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ather73&label=Profile%20views&color=0e75b6&style=flat" alt="ather73" /> </p>
+
 
 - 🌱 I’m currently learning **Nodejs , React Native**
 
